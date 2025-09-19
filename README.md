@@ -14,9 +14,10 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaamoqade&theme=radical&no-frame=true&margin-w=15" alt="alaamoqade" />
-  </a> 
+ <a href="mailto:alaamoqade12@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="35" width="35" />
+</a>
+
 </p>
 
 ---
