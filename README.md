@@ -13,28 +13,28 @@
   <img src="https://komarev.com/ghpvc/?username=alaamoqade&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="alaamoqade" /> 
 </p>
 
-
-
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaamoqade&theme=radical&no-frame=true&margin-w=15" alt="alaamoqade" />
+  </a> 
 </p>
 
----
 
 - 🌱 I’m currently learning **Flutter developer at Gaza Sky Geeks**  
 - 👯 I’m looking to collaborate on [Graduation Project](https://github.com/AlaaMoqade/Graduation_project.git)  
 - 📫 Reach me at **alaamoqade12@gmail.com**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alaamoqade550149280/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaaamoqad" height="30" width="40" />
   </a>
- <a href="mailto:alaamoqade12@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
+<a href="mailto:alaamoqade12@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="35" width="35" />
 </a>
 
-  </a>
+
 </p>
 
 ---
