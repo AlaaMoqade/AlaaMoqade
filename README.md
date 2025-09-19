@@ -30,6 +30,8 @@
   <a href="https://www.linkedin.com/in/alaamoqade550149280/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaaamoqad" height="30" width="40" />
   </a>
+  <a 
+</a>
 <a href="mailto:alaamoqade12@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="35" width="35" />
 </a>
@@ -37,14 +39,14 @@
 
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,php,html,css,git,linux,mysql,figma,selenium" /> 
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaamoqade&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
@@ -55,13 +57,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamoqade&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px">
