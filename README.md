@@ -13,10 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=alaamoqade&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="alaamoqade" /> 
 </p>
 
-<p align="center"> 
- <a href="mailto:alaamoqade12@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="35" width="35" />
-</a>
+
 
 </p>
 
