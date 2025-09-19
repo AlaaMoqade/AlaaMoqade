@@ -32,8 +32,10 @@
   <a href="https://www.linkedin.com/in/alaamoqade550149280/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaaamoqad" height="30" width="40" />
   </a>
-  <a href="mailto:alaamoqade12@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="alaaamoqad" height="30" width="40" />
+ <a href="mailto:alaamoqade12@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
+</a>
+
   </a>
 </p>
 
